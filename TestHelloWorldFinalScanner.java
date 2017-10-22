@@ -1,4 +1,5 @@
 //modified by Yair Reyes
+// test class for HelloWorld.java
 import java.util.Scanner;
 public class TestHelloWorldFinalScanner{
 public static void main(String [] args){
