@@ -1,12 +1,12 @@
 /* Modificado po Yair Reyes*/
 
-public class OperacionBinaria{
+public class SumaMulti{
 	private int numero1;
 	private int numero2;
 
 //Constructor sin parametros
 
-public OperacionBinaria(){
+public SumaMulti(){
 	numero1=0;
 	numero2=0;
 
@@ -14,7 +14,7 @@ public OperacionBinaria(){
 
 //Constructor con dos parametros que inicializan los atributos
 
-public OperacionBinaria(int numero1, int numero2){
+public SumaMulti(int numero1, int numero2){
 	this.numero1=numero1;
 	this.numero2=numero2;
 }
