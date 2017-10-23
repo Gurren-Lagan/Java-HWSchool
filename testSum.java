@@ -1,8 +1,9 @@
+//clase de prueba para SumaMulti
 public class testSum
 {
 public static void main(String[] args) {
 
-    OperacionBinaria suma = new OperacionBinaria();
+    SumaMulti suma = new SumaMulti();
 
     suma.setNumero1(1);
     suma.setNumero2(2);
